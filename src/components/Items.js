@@ -5,7 +5,7 @@ export const items = [
         name: 'Armour-Piercing Rounds',
         description: 'Deals an additional 20% damage(+20% per stack) to bosses.',
         synergy: 'Any damage-dealing items. Best used in early-mid game.',
-        logo: 'https://static.wikia.nocookie.net/riskofrain2_gamepedia_en/images/f/f0/Armor-Piercing_Rounds.png/revision/latest?cb=20200129193018'
+        logo: 'https://lh3.googleusercontent.com/njMCVo7CFfVkPqM82MD0yZtxTR0kdLofd1vb4vbiH6QWGYyh17AJDiS8GxKg4Z5njWN8l3aHyWe_2Vd6W4eRMwvRJVfvj_op2Z-G-Gcb'
     },
     {
         id: 2,

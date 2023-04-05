@@ -6,11 +6,11 @@ import ContactForm from './components/Contact/ContactForm';
 import Tips from './components/Tips/Tips';
 import About from './components/About/About';
 import 'tachyons';
-import { BrowserRouter, Route, Routes } from 'react-router-dom';
+import { HashRouter, Route, Routes } from 'react-router-dom';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-    <BrowserRouter>
+    <HashRouter>
         <Routes>
             <Route path="/tips" element={<Tips/>} />
             <Route path="/about" element={<About/>} />
@@ -18,6 +18,6 @@ root.render(
             <Route path="/" element={<App/>} />
             
         </Routes>
-    </BrowserRouter>
+    </HashRouter>
 );
 
