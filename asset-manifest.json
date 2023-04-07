@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/risk-of-rain-two-item-index/static/css/main.5e6daf86.css",
-    "main.js": "/risk-of-rain-two-item-index/static/js/main.b543492e.js",
+    "main.js": "/risk-of-rain-two-item-index/static/js/main.b069122f.js",
     "static/media/logo.png": "/risk-of-rain-two-item-index/static/media/logo.4bc4ebe16cd3f919a5ad.png",
     "index.html": "/risk-of-rain-two-item-index/index.html",
     "main.5e6daf86.css.map": "/risk-of-rain-two-item-index/static/css/main.5e6daf86.css.map",
-    "main.b543492e.js.map": "/risk-of-rain-two-item-index/static/js/main.b543492e.js.map"
+    "main.b069122f.js.map": "/risk-of-rain-two-item-index/static/js/main.b069122f.js.map"
   },
   "entrypoints": [
     "static/css/main.5e6daf86.css",
-    "static/js/main.b543492e.js"
+    "static/js/main.b069122f.js"
   ]
 }
